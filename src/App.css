@@ -3,3 +3,15 @@
   margin: 0 auto;
   padding: 2rem;
 }
+
+body {
+  padding: 70px;
+}
+
+.nav {
+  display: flex;
+}
+
+.nav > * {
+  margin-left: 32px;
+}
